@@ -1,0 +1,37 @@
+{    "https://www.tiktok.com/@quefourfour/video/7071999725515427114": {
+        "users": [{
+            "user_id": "quefourfour", 
+            "user_name": "quefourfour", 
+            "is_verifed": false
+        }], 
+        "text": {
+            "desc": "Beef brisket #manshallnotlivebybreadalone #quefourfour #simplythebest #keto", 
+            "challenges": ["manshallnotlivebybreadalone", "quefourfour", "simplythebest", "keto"], 
+            "tagged": []
+            }, 
+        "music": {
+            "title": "original sound", 
+            "author_name": "quefourfour"
+        }, 
+        "video": {
+            "id": "7071999725515427114", 
+            "ratio": "720p", 
+            "height": 1024, 
+            "width": 576, 
+            "createTime": "1646578249", 
+            "duration": 31, 
+            "bitrate": 1696223, 
+            "encodedType": "normal", 
+            "format": "mp4", 
+            "videoQuality": "normal", 
+            "codecType": "h264", 
+            "definition": "720p"
+        }, 
+        "stats": {
+            "diggCount": 124100, 
+            "shareCount": 2328, 
+            "commentCount": 1461, 
+            "playCount": 3200000
+        }
+    }
+}
