@@ -1,4 +1,4 @@
-# EDA (Exploratory Data Analysis) of TikTok Datasets
+# Comprehensive Analytics of TikTok Content Trends and User Engagement
 
 ## Project Overview
 This project explores two TikTok datasets, focusing on videos related to eating disorder and self-harm, to uncover insights through statistical analysis, natural language processing (NLP), and network science. The datasets include detailed metadata on videos and comments, offering a comprehensive view of user engagement and content trends.
